@@ -49,7 +49,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Cubos selecionados de alcatra e contrafilé marinados em tempero suave e assados no braseiro alto.',
     portionNote: 'Aprox. 110g in natura',
     isPopular: true,
-    image: '/src/assets/images/espetinho_tradicional_1792502132178.jpg',
+    image: '/images/espetinho_tradicional_1792502132178.jpg',
   },
   {
     id: 'esp-frango',
@@ -119,7 +119,7 @@ export const MENU_ITEMS: MenuItem[] = [
     portionNote: 'Aprox. 130g in natura',
     badge: 'Campeão de Vendas',
     isPopular: true,
-    image: '/src/assets/images/espetinho_especial_1792502133513.jpg',
+    image: '/images/espetinho_especial_1792502133513.jpg',
   },
   {
     id: 'esp-alcatra-bacon',
@@ -180,7 +180,7 @@ export const MENU_ITEMS: MenuItem[] = [
     portionNote: 'Refeição completa individual',
     badge: 'Mais Pedido Individual',
     isPopular: true,
-    image: '/src/assets/images/combo_completo_1792502134225.jpg',
+    image: '/images/combo_completo_1792502134225.jpg',
   },
   {
     id: 'combo-solo-premium',
